@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  1 JUN 2024 22:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  1 JUN 2024 22:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -783,63 +783,63 @@ Package hyperref Info: Link coloring OFF on input line 41.
 \openout5 = `"Plantilla CV.out"'.
 
 LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <24.88> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 44.
+(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 43.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 44.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 43.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 44.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 43.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 44.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 43.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 44.
+(Font)              <10.95> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <8> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 44.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+(Font)              <6> on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
 
  []
 
 LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 47.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 50.
+(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 46.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 49.
 (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 54.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 53.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 56.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 55.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 56.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on input line 62.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 55.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on input line 61.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 62.
+(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 67.
+(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 66.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 90.
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 90.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 89.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 89.
  (C:\Users\AsCra\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -860,13 +860,13 @@ Package rerunfilecheck Info: File `"Plantilla CV".out' has not changed.
 Here is how much of TeX's memory you used:
  27247 strings out of 474424
  525107 string characters out of 5741739
- 1955496 words of memory out of 5000000
+ 1956496 words of memory out of 5000000
  49045 multiletter control sequences out of 15000+600000
  603142 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,129p,1063b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/AsCra/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/AsCra/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/AsCra/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/AsCra/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/AsCra/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
-Output written on "Plantilla CV.pdf" (1 page, 159481 bytes).
+Output written on "Plantilla CV.pdf" (1 page, 159515 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
