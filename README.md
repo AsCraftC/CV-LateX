@@ -49,7 +49,7 @@ This CV at the beginning was one of the documents I learned to use LateX with, b
 
  - **[moderncv](https://ctan.org/pkg/moderncv)** : Base template for the CV. 
  - **[inputenc](https://www.ctan.org/pkg/inputenc)** : UTF8 encoding implementation. 
- - geometry](https://www.ctan.org/pkg/geometry)** : Used to generate margins.
+ - **[geometry](https://www.ctan.org/pkg/geometry)** : Used to generate margins.
  - **[enumitem](https://ctan.org/pkg/enumitem)** : Use of enumitems.
  - **[lmodern](https://www.ctan.org/pkg/lm)** : Latin fonts. 
 
